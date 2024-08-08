@@ -1,4 +1,4 @@
-# CPE593_Fall2022_Project
+# Optimal Packing
 CPE593 Fall2022 Project
 
 btai2 = Brandon Tai;
